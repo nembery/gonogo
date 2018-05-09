@@ -1,0 +1,5 @@
+# Traffic cop is a simple tool to run a series of tests
+# to determine if an automation may continue against a targeted host
+# this provides only a REST API that runs a series of extensible tests
+# to determine whether a device is available for automated actions (i.e. self healing)
+
